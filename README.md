@@ -1,1 +1,0 @@
-# Sistema-Automatico-para-Analise-de-Sentimentos
